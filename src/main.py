@@ -31,7 +31,7 @@ def brute_force(word: str, length: int, digits: bool = False, symbols: bool = Fa
 
 def main():
     print('Searching...')
-    password: str = '!bqx34jk$'
+    password: str = 'a!3R5~'
 
     start_time: float = time.perf_counter()
 
